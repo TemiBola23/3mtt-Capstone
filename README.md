@@ -43,7 +43,7 @@ Follow these steps to run the project locally.
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/Kanegraffiti/3mtt-Capstone.git
+git clone https://github.com/Temibola23/3mtt-Capstone.git
 cd 3mtt-Capstone
 
 # 2. Install backend then frontend dependencies
